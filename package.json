@@ -1,6 +1,6 @@
 {
   "name": "playwright-framework-template",
-  "version": "1.0.0",
+	"version": "1.0.1",
   "description": "Playwright Framework Template : Unified automation framework for Web, Mobile, API & Load testing",
   "main": "index.js",
   "scripts": {
